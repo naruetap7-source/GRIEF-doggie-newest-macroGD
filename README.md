@@ -4,8 +4,6 @@
 
 ## level profile
 
-### Available in multiple replay formats
-
 ## Description
 
 Although recommended for xdBot, it may still be somewhat unstable and may require several attempts to pass.
@@ -13,6 +11,8 @@ It took me about 10 to 15 minutes to create.
 The reason I created it is because not many people have created one that works as well as I could find.
 This is one of my favorite levels already. Hopefully,
 #### Doggie will be verified soon.
+
+### Available in multiple replay formats
 
 ## Replay Formats
 - `.gdr` — zBot / xdBot
