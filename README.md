@@ -17,9 +17,11 @@ Difficulty: Insane (Extreme Demon , The Top Six+)(6-1)
 Uploaded by: BodSZN (https://www.youtube.com/@BodSZN)
 
 Uploaded Soon/Host by: icedcave (https://www.youtube.com/@icedcave0)
+
 Secondary channel: icedcave2 (https://www.youtube.com/@tf2nico)
 
 Verified by: Doggie (https://www.youtube.com/@DoggieDasher)
+
 Chip Channel: DoggieClips (https://www.youtube.com/@doggiedasherclips)
 
 Song: Stalemate (By: Kayoszx)(https://www.youtube.com/@kayozx4610)
