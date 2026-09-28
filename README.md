@@ -4,6 +4,26 @@
 
 ## level profile
 
+ID: 116841089
+
+Length: XL (02:52)
+
+Rate Star: 10 (Demon)
+
+Stars Requested: 10
+
+Difficulty: Insane (Extreme Demon , The Top Six+)(6-1)
+
+Uploaded by: BodSZN (https://www.youtube.com/@BodSZN)
+
+Uploaded Soon/Host by: icedcave (https://www.youtube.com/@icedcave0)
+Secondary channel: icedcave2 (https://www.youtube.com/@tf2nico)
+
+Verified by: Doggie (https://www.youtube.com/@DoggieDasher)
+Chip Channel: DoggieClips (https://www.youtube.com/@doggiedasherclips)
+
+Song: Stalemate (By: Kayoszx)(https://www.youtube.com/@kayozx4610)
+
 ## Description
 
 Although recommended for xdBot, it may still be somewhat unstable and may require several attempts to pass.
