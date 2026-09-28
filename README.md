@@ -27,11 +27,17 @@ Chip Channel: DoggieClips
 Song: Stalemate (By: Kayoszx)
 
 ### Channel
+
 BodSZN: (https://www.youtube.com/@BodSZN)
+
 icedcave: (https://www.youtube.com/@icedcave0)
+
 Secondary channel: icedcave2 (https://www.youtube.com/@tf2nico)
+
 Doggie: (https://www.youtube.com/@DoggieDasher)
+
 Chip Channel: DoggieClips (https://www.youtube.com/@doggiedasherclips)
+
 Kayoszx: (https://www.youtube.com/@kayozx4610)
 
 ## Description
