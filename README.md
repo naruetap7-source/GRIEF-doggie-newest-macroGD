@@ -18,11 +18,7 @@ Uploaded by: BodSZN
 
 Uploaded Soon/Host by: icedcave
 
-Secondary channel: icedcave2
-
 Verified by: Doggie
-
-Chip Channel: DoggieClips
 
 Song: Stalemate (By: Kayoszx)
 
